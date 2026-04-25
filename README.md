@@ -26,7 +26,7 @@ Grow your snake by chanting the divine name **Radha**.
 
 ## 🚀 Live Demo
 
-(Add your Netlify link here)
+https://radha-naam-jap-game.netlify.app/
 
 ---
 
@@ -48,5 +48,6 @@ Inspired by spiritual chanting (Naam Jap)
 
 ## 📌 Author
 
-Swati Chouhan
-Idea by me • Built with Replit • Optimized with ChatGPT
+Swati Chouhan 
+
+(Idea by me • Built with Replit • Optimized with ChatGPT )
